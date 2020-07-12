@@ -4,7 +4,7 @@ node {
    stage 'Checkout'
         checkout scm
 
-   stage 'Setup'
+   stage 'Setup sudo'
         sh 'sudo npm install'
 
    stage 'Mocha test'

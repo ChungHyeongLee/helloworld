@@ -7,21 +7,21 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha"
+    "test": "node_modules/mocha/bin/mocha --timeout 5000"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nfelsen/helloworld.git"
+    "url": "git+https://github.com/ChungHyeongLee/helloworld.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nfelsen/helloworld/issues"
+    "url": "https://github.com/ChungHyeongLee/helloworld/issues"
   },
-  "homepage": "https://github.com/nfelsen/helloworld#readme",
+  "homepage": "https://github.com/ChungHyeongLee/helloworld#readme",
   "devDependencies": {
     "mocha": "^2.5.3",
-    "zombie": "^3.0.15"
+    "zombie": "^5.0.3"
   }
 }

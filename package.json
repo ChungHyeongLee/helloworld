@@ -22,6 +22,6 @@
   "homepage": "https://github.com/ChungHyeongLee/helloworld#readme",
   "devDependencies": {
     "mocha": "^2.5.3",
-    "zombie": "^5.0.3"
+    "zombie": "^6.1.4"
   }
 }
